@@ -1,3 +1,5 @@
+package com.example.demo.login.domain.repository.jdbc;
+
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;
