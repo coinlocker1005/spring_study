@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS employee(
   employee_id INT PRIMARY KEY,
-  EMPLOYEE_NAME VARCHAR(50),
+  employee_name VARCHAR(50),
   age INT
   );
