@@ -33,6 +33,7 @@ dependencies {
 	implementation 'org.webjars:jquery:1.11.1'
 	implementation 'org.webjars:bootstrap:3.3.7-1'
 	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	compile('org.springframework.boot:spring-boot-starter-aop')
 }
 
 test {
